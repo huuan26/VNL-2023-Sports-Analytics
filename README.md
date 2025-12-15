@@ -4,7 +4,7 @@ This project contains a data analysis report on the **Volleyball National League
 
 ## 📁 Files Included
 
-### 1. `VNL2023.Rmd`
+### 1. `VNL_Analysis_Report.Rmd`
 This is an R Markdown (`.Rmd`) source file that contains:
 - **Data import and preprocessing** using R.
 - **Exploratory Data Analysis (EDA)** with summary statistics and visualizations.
@@ -14,7 +14,7 @@ This is an R Markdown (`.Rmd`) source file that contains:
 
 You can edit this file to change data sources, add new visualizations, or extend the analysis.
 
-### 2. `VNL2023.html`
+### 2. `VNL_Analysis_Report.html`
 This is the **rendered HTML report** generated from the `VNL2023.Rmd` file. It provides a clean and interactive view of all analysis steps, including charts, tables, and written interpretations.
 
 ## ▶️ How to Run the Analysis
