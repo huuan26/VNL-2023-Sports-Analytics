@@ -1,6 +1,6 @@
 ---
 title: "Phân tích sự khác biệt về hiệu suất thi đấu giữa các vị trí trong bóng chuyền nam và xác định các yếu tố chính ảnh hưởng đến hiệu suất của từng vị trí"
-author: "22110012 - Hữu Ân  \n\n22110059 - Hồng Hiên\n"
+author: "22110012 - Hữu Ân"
 date: "01-07-2025"
 output:
   html_document:
